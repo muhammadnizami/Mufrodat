@@ -1,4 +1,4 @@
-package nizami_13512501.mufrodat;
+package muhammadnizami.mufrodat;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

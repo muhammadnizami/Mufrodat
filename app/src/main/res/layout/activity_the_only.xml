@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="nizami_13512501.mufrodat.TheOnlyActivity">
+    tools:context="muhammadnizami.mufrodat.TheOnlyActivity">
 
     <LinearLayout
         android:orientation="vertical"

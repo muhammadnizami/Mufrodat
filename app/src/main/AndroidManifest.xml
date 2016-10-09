@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nizami_13512501.mufrodat" android:installLocation="auto">
+    package="muhammadnizami.mufrodat" android:installLocation="auto">
 
     <application
         android:allowBackup="true"

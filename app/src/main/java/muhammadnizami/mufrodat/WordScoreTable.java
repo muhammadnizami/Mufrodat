@@ -1,4 +1,4 @@
-package nizami_13512501.mufrodat;
+package muhammadnizami.mufrodat;
 
 import android.annotation.TargetApi;
 import android.os.Build;
