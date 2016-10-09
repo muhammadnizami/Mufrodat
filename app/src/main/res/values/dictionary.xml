@@ -11,5 +11,96 @@
         <item>سِنٌّ~gigi</item>
         <item>اُذُنٌ~telinga</item>
         <item>لِسَانٌ~lidah</item>
+        <item>رَأْسٌ~kepala</item>
+        <item>شَعْرٌ~rambut</item>
+        <item>جِلْدٌ~kulit</item>
+        <item>عُنُقٌ~tengkuk</item>
+        <item>صَدْرٌ~dada</item>
+        <item>كَتِفٌ~pundak</item>
+        <item>يَدٌ~tangan</item>
+        <item>مِرْفَقُ~siku</item>
+        <item>رِجْلٌ~kaki</item>
+        <item>رَجُلٌ~pria/orang laki-laki</item>
+        <item>كِتَابٌ~buku (cetak)</item>
+        <item>كُرَّاسَةٌ~buku tulis</item>
+        <item>طَلَّاسَةٌ~penghapus papan tulis</item>
+        <item>مِبْرَاةٌ~rautan</item>
+        <item>قَلَمٌ~pena</item>
+        <item>حِبْرٌ~tinta</item>
+        <item>سَيْفٌ~pedang</item>
+        <item>طَبَاشِيْرُ~kapur</item>
+        <item>مِمْحَاةٌ~penghapus</item>
+        <item>مَاءٌ~air</item>
+        <item>مِرْأَةٌ~cermin</item>
+        <item>قَمِيصٌ~baju/kemeja</item>
+        <item>مِصْبَاحٌ~lampu</item>
+        <item>بَطْنٌ~perut</item>
+        <item>ظُفْرٌ~kuku</item>
+        <item>أُصْبُعٌ~jari</item>
+        <item>قَدَمٌ~telapak kaki</item>
+        <item>سِلْكٌ~kawat</item>
+        <item>ظَهْرٌ~punggung</item>
+        <item>جِدَارٌ/حَائِطٌ~dinding/tembok</item>
+        <item>سُوْرٌ~pagar</item>
+        <item>عُشْبٌ~rumput</item>
+        <item>شَجَرَةٌ~pohon</item>
+        <item>تُفَّاحٌ~apel</item>
+        <item>سَيَّارَةٌ~mobil</item>
+        <item>جَمَلٌ~unta</item>
+        <item>إِبِلٌ~unta bunting</item>
+        <item>بَقَرَةٌ~sapi betina</item>
+        <item>سَبُّوْرَةٌ~papan tulis</item>
+        <item>قَمِيْصٌ~kemeja/gamis</item>
+        <item>مَحْفَظَةٌ~tas</item>
+        <item>كَتَبَ - يَكْتُبُ~menulis</item>
+        <item>قَرَأَ - يَقْرَأُ~membaca</item>
+        <item>قَتَلَ - يَقْتُلُ~membunuh</item>
+        <item>حَبْلٌ~tali</item>
+        <item>هَاتِفٌ~telepon</item>
+        <item>عَقْلٌ~akal</item>
+        <item>أَكَلَ - يَأْكُلُ~makan</item>
+        <item>شَرِبَ - يَشْرَبُ~minum</item>
+        <item>زَيْتٌ~minyak</item>
+        <item>اِسْتَرَاحَ - يَسْتَرِيْحُ~beristirahat</item>
+        <item>اَقْلَامٌ~jamak قَلَمٌ (pulpen)</item>
+        <item>اَسْوَدُ~hitam</item>
+        <item>أَبْيَضْ~putih</item>
+        <item>أَحْمَرُ~merah</item>
+        <item>أَخْضَرُ~hijau</item>
+        <item>أَزْرَقُ~biru</item>
+        <item>أَصْفَرُ~kuning</item>
+        <item>بُرْتُقَالِيٌّ~jingga</item>
+        <item>أَرْمَدُ~abu-abu</item>
+        <item>رَجَعَ - يَرْجِعُ~kembali</item>
+        <item>ذَهَبَ - يَذْهَبُ~pergi</item>
+        <item>خَرَجَ - يَخْرُجُ~keluar</item>
+        <item>دَخَلَ - يَدْخُلُ~masuk</item>
+        <item>صَنَعَ - يَصْنَعُ~membuat</item>
+        <item>أَخَذَ - يَأْخُذُ~mengambil</item>
+        <item>وَضَعَ - يَضَعُ~menaruh</item>
+        <item>حَسَنٌ~baik</item>
+        <item>خَيْرٌ~baik/lebih baik</item>
+        <item>بُنْدُقِيَّةٌ~senapan</item>
+        <item>قَوْسٌ~busur</item>
+        <item>سَهْمٌ~panah</item>
+        <item>سَهْلٌ~mudah</item>
+        <item>صَعْبٌ~sulit</item>
+        <item>قَوِيٌّ~kuat</item>
+        <item>ضَعِيْفٌ~lemah</item>
+        <item>غَسَلَ - يَغْسِلُ~mengguyur/membasuh/mencuci</item>
+        <item>وَلِيٌّ~pelindung, tuan, pemimpin, kekasih, penanggung jawab, wali</item>
+        <item>بَيْتٌ~rumah</item>
+        <item>كَلْبٌ~anjing</item>
+        <item>مَنْزِلٌ~rumah</item>
+        <item>مَكْتَبٌ~meja/kantor/perpustakaan</item>
+        <item>خِزَانَةٌ~lemari</item>
+        <item>فِرْجَارٌ~jangka</item>
+        <item>فَهِمَ - يَفْهَمُ~paham</item>
+        <item>سَرِيْرٌ~tempat tidur</item>
+        <item>مِخَدَّةٌ~bantal</item>
+        <item>ثَوْبٌ~pakaian</item>
+        <item>بِنَاءٌ~bangunan</item>
+        <item>وَلَدٌ~anak laki-laki</item>
+        <item>وَالِدٌ~ayah</item>
     </string-array>
 </resources>
