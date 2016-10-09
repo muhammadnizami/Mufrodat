@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dictionary_array">
+        <item>وَجْهٌ~wajah</item>
+        <item>خَدٌّ~pipi</item>
+        <item>عَيْنٌ~mata</item>
+        <item>اَنْفٌ~hidung</item>
+        <item>فَمٌ~mulut</item>
+        <item>جَبْهَةٌ~dahi</item>
+        <item>ذَقَنٌ~dagu</item>
+        <item>سِنٌّ~gigi</item>
+        <item>اُذُنٌ~telinga</item>
+        <item>لِسَانٌ~lidah</item>
+    </string-array>
+</resources>
