@@ -176,11 +176,13 @@ public class TheOnlyActivity extends AppCompatActivity {
         for (int i=0;i<wrongAnswers.length;i++){
             int wrongAnswerId;
             String randomArabicWord;
+            String wrongAnswer;
             do {
                 wrongAnswerId = constructQuestionRandom.nextInt(next_word_index);
                 randomArabicWord = dictionary_key_list.get(wrongAnswerId);
-            } while (randomArabicWord.equals(arabicWord));
-            wrongAnswers[i] = dictionary.get(randomArabicWord);
+                wrongAnswer = dictionary.get(randomArabicWord);
+            } while (wrongAnswer.equals(correctAnswer));
+            wrongAnswers[i] = wrongAnswer;
         }
     }
 
