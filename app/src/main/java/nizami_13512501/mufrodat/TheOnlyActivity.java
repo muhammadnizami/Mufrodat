@@ -75,6 +75,7 @@ public class TheOnlyActivity extends AppCompatActivity {
             Gson gson = new Gson();
             String json = mPrefs.getString("wordScoreTable", "");
             wordScoreTable = gson.fromJson(json, WordScoreTable.class);
+            next_word_index = mPrefs.getInt("next_word_index", 0);
         }else {
             wordScoreTable = new WordScoreTable();
             for (next_word_index=0;next_word_index<INITIAL_WORD_COUNT;){
@@ -100,6 +101,7 @@ public class TheOnlyActivity extends AppCompatActivity {
         Gson gson = new Gson();
         String json = gson.toJson(wordScoreTable);
         prefsEditor.putString("wordScoreTable", json);
+        prefsEditor.putInt("next_word_index",next_word_index);
         prefsEditor.commit();
     }
     protected void saveTotalScore(){
@@ -175,7 +177,7 @@ public class TheOnlyActivity extends AppCompatActivity {
             int wrongAnswerId;
             String randomArabicWord;
             do {
-                wrongAnswerId = constructQuestionRandom.nextInt(dictionary.size());
+                wrongAnswerId = constructQuestionRandom.nextInt(next_word_index);
                 randomArabicWord = dictionary_key_list.get(wrongAnswerId);
             } while (randomArabicWord.equals(arabicWord));
             wrongAnswers[i] = dictionary.get(randomArabicWord);
