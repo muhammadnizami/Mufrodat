@@ -8,7 +8,7 @@
         <item>فَمٌ~mulut</item>
         <item>جَبْهَةٌ~dahi</item>
         <item>ذَقَنٌ~dagu</item>
-        <item>سِنٌّ~gigi</item>
+        <item>سِنٌّ~gigi, tahun</item>
         <item>اُذُنٌ~telinga</item>
         <item>لِسَانٌ~lidah</item>
         <item>رَأْسٌ~kepala</item>
@@ -64,7 +64,7 @@
         <item>اِسْتَرَاحَ - يَسْتَرِيْحُ~beristirahat</item>
         <item>اَقْلَامٌ~jamak قَلَمٌ (pulpen)</item>
         <item>اَسْوَدُ~hitam</item>
-        <item>أَبْيَضْ~putih</item>
+        <item>أَبْيَضُ~putih</item>
         <item>أَحْمَرُ~merah</item>
         <item>أَخْضَرُ~hijau</item>
         <item>أَزْرَقُ~biru</item>
@@ -102,5 +102,55 @@
         <item>بِنَاءٌ~bangunan</item>
         <item>وَلَدٌ~anak laki-laki</item>
         <item>وَالِدٌ~ayah</item>
+        <item>عَشْوَائِي~acak</item>
+        <item>مَقَالَةٌ~artikel, esai</item>
+        <item>هَيْئَةٌ~bentuk, penampakan, posisi, ketinggian, keadaan, kelompok, organisasi</item>
+        <item>اِتَّصَلَ - يَتَّصِلُ~menghubungi</item>
+        <item>مُؤَسَّسَةٌ~lembaga, yayasan</item>
+        <item>عَامٌ~tahun</item>
+        <item>شَرْقٌ~timur</item>
+        <item>غَرْبٌ~barat</item>
+        <item>جَنُوبٌ~selatan</item>
+        <item>شَمَالٌ~utara</item>
+        <item>الشَّرْقُ الأَوْسَطُ~timur tengah</item>
+        <item>مَنْطِقَةٌ~daerah, area</item>
+        <item>مَنْطِقٌ~logika, penalaran</item>
+        <item>بَلَدٌ~negeri</item>
+        <item>طَلَّ - يَطِلُّ~tampak, muncul, terdengar ...</item>
+        <item>دَوْلَةٌ~negara</item>
+        <item>قَرْيَةٌ~desa</item>
+        <item>مَدِيْنَةٌ~kota</item>
+        <item>مَظَارٌ~bandara</item>
+        <item>مَحَطَّةٌ~stasiun</item>
+        <item>مَحَلَّةٌ~tempat tinggal suatu kaum, distrik, bagian dari kota, tempat lahir atau kependudukan</item>
+        <item>مَجَلَّةٌ~majalah</item>
+        <item>مِلْعَقَةٌ~sendok</item>
+        <item>شَوْكَةٌ~garpu</item>
+        <item>ربطة عنق~dasi</item>
+        <item>كُرْسِيٌّ~kursi</item>
+        <item>حِذَاءٌ~sepatu</item>
+        <item>دِثَارٌ~selimut</item>
+        <item>حَلَقَةٌ~episode</item>
+        <item>قَنَاةٌ~saluran, selokan</item>
+        <item>مُمَثِّلٌ~agen, wakil, kuasa, aktor</item>
+        <item>آثَرَ - يُؤْثِرُ~memilih, lebih menyukai</item>
+        <item>أَثَرٌ~hadis, efek, monumen, kutipan, monumen, relik, peninggalan</item>
+        <item>مِيْلَادٌ~kelahiran</item>
+        <item>جَامِعَةٌ~universitas</item>
+        <item>مُسْتَشْفَى~rumah sakit</item>
+        <item>أُسْتَاذٌ~guru, dosen, profesor, master</item>
+        <item>وَقَعَ - يَقَعُ~terjadi, bertempat, mendaftar, jatuh</item>
+        <item>نَظَرَ - يَنْظُرُ~melihat, menatap</item>
+        <item>مُئَسِّسٌ~pendiri</item>
+        <item>إِمَارَةٌ~</item>
+        <item>سِيَاسَةٌ~politik</item>
+        <item>قَائِدٌ~pimpinan, bos, raja, kepala suku, kepala departemen, komandan, atasan, pimpinan organisasi</item>
+        <item>نَسَبٌ~silsilah</item>
+        <item>نِسْبَةٌ~rasio</item>
+        <item>اِتَّبَعَ - يَتَّبِعُmengikuti</item>
+        <item>بَحْرٌ~laut</item>
+        <item>نَعْلٌ~sendal, alas kaki</item>
+        <item>جَزْمَةٌ~sepatu</item>
+        <item>حِمَايَةٌ~melindungi, perlindungan</item>
     </string-array>
 </resources>
