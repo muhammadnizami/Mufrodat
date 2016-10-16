@@ -56,6 +56,14 @@ public class TheOnlyActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onStop(){
+        saveWordScoreTable();
+        saveTotalScore();
+
+        super.onStop();
+    }
+
+    @Override
     protected void onDestroy(){
         saveWordScoreTable();
         saveTotalScore();
