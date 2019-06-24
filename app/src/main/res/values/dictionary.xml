@@ -120,7 +120,7 @@
         <item>دَوْلَةٌ~negara</item>
         <item>قَرْيَةٌ~desa</item>
         <item>مَدِيْنَةٌ~kota</item>
-        <item>مَظَارٌ~bandara</item>
+        <item>مَطَارٌ~bandara</item>
         <item>مَحَطَّةٌ~stasiun</item>
         <item>مَحَلَّةٌ~tempat tinggal suatu kaum, distrik, bagian dari kota, tempat lahir atau kependudukan</item>
         <item>مَجَلَّةٌ~majalah</item>
@@ -164,8 +164,7 @@
         <item>جَنْدَل~bebatuan</item>
         <item>خَاصٌ~khusus</item>
         <item>مَوْجُودٌ~ada</item>
-        <item>أَطْلَقَ~menembakkan, meluncurkan, mengeluarkan</item>
-        <item>أَطْلَقَ~menembakkan, meluncurkan, mengeluarkan</item>
+        <item>أَطْلَقَ - يُطْلِقُ~menembakkan, meluncurkan, mengeluarkanو melepaskan, mengirim, membebaskan, menceraikan</item>
         <item>نَقْدٌ~uang, koin, mata uang</item>
         <item>حِصَانٌ~kuda</item>
         <item>حَافِرٌ~kaki kuda</item>
@@ -177,7 +176,7 @@
         <item>عَدَّدَ~menghitung</item>
         <item>طُلَّابٌ~mahasiswa, murid (jamak)</item>
         <item>تَوْقِيتٌ~pewaktuan</item>
-        <item>وَسْظ~tengah</item>
+        <item>وَسْط~tengah</item>
         <item>سَاحِلٌ~pantai, pesisir, sempadan sungai</item>
         <item>مَوْسُوعَةٌ~ensiklopedia</item>
         <item>حُرٌّ~bebas, merdeka</item>
@@ -185,5 +184,114 @@
         <item>أَحْرَزَ~mencapai, memperoleh, memenangkan</item>
         <item>زِلْزَالٌ~gempa bumi</item>
         <item>نِهَايَةٌ~berakhir, selesai</item>
+        <item>قِطٌّ~kucing</item>
+        <item>هِرٌّ~kucing</item>
+        <item>بِسٌّ~kucing</item>
+        <item>إِسْمٌ~nama</item>
+        <item>حَيَوَانٌ~hewan</item>
+        <item>دَجْنٌ~domestikasi, penjinakan</item>
+        <item>اِنْسٌ~manusia</item>
+        <item>قَبْلَ~sebelum</item>
+        <item>بَعْدَ~sesudah</item>
+        <item>نَحْوَ~arah</item>
+        <item>جِهَةٌ~arah</item>
+        <item>وَاحِدٌ~satu</item>
+        <item>اِثْنَانِ~dua</item>
+        <item>ثَلَاثَةٌ~tiga</item>
+        <item>اَرْبَعَةٌ~empat</item>
+        <item>خَمْسَةٌ~lima</item>
+        <item>سِتَّةٌ~enam</item>
+        <item>سَبْعَةٌ~tujuh</item>
+        <item>ثَمَانِيَةٌ~delapan</item>
+        <item>تِسْعَةٌ~sembilan</item>
+        <item>عَشَرَةٌ~sepuluh</item>
+        <item>مِئَةٌ~seratus</item>
+        <item>اَلْفٌ~seribu</item>
+        <item>اِعْتَقَدَ-يَعْتَقِدُ~percaya, berpendapat (bahwa), menganggap</item>
+        <item>أَصْلٌ~asal, sumber, dasar, akar, sebab, referensi, nenek moyang</item>
+        <item>بَرِيَّةٌ~ciptaan, makhluk</item>
+        <item>بَرِّيَّةٌ~daerah tandus</item>
+        <item>مَيْلٌ~kecondongan, kecenderungan, tendensi</item>
+        <item>حَرَارَةٌ~hawa panas</item>
+        <item>غَالِبٌ~unggul, menang</item>
+        <item>تَعَرُّضٌ~konsiderasi, menghadapi, menangani</item>
+        <item>شَمْسٌ~matahari</item>
+        <item>سَمَاءٌ~langit</item>
+        <item>قَمَرٌ~bulan</item>
+        <item>بَدْرٌ~purnama</item>
+        <item>نَامَ-يَنَامُ~tidur</item>
+        <item>مَكَانٌ~tempat</item>
+        <item>طَائِرَةٌ~pesawat terbang</item>
+        <item>طَيَّارٌ~penerbang, pilot</item>
+        <item>سُلَالَةٌ~peranakan, silsilah</item>
+        <item>أَثْنَاءٌ~pada, ketika, selama</item>
+        <item>خِلَالٌ~pada, ketika, selama</item>
+        <item>لَيْلٌ~malam</item>
+        <item>نَهَارٌ~siang</item>
+        <item>عَدِيْمٌ~miskin, tidak punya</item>
+        <item>فِرَاءٌ~bulu</item>
+        <item>ذَيْلٌ~ekor, bagian bawah, kaki</item>
+        <item>نَتِيْجَةٌ~lulus, berhasil, berbuah</item>
+        <item>شَوِهَ-يَشْوَهُ~merusak</item>
+        <item>تَمَتَّعَ-يَتَمَتَّعُ~menikmati</item>
+        <item>مَهَارَةٌ~kemampuan, keahlian</item>
+        <item>صَيْدٌ~berburu, perburuan</item>
+        <item>اِفْتِرَاسٌ~predasi, memangsa</item>
+        <item>سِنُّوْرٌ~kucing</item>
+        <item>تَقَارَبَ~mendekati</item>
+        <item>نِمْرٌ~harimau, leopard</item>
+        <item>شَكْلٌ~bentuk</item>
+        <item>أَسَدٌ~singa</item>
+        <item>شَكَلَ-يَشْكُلُ~terdiri dari, memiliki</item>
+        <item>اِنْحَدَرَ-يَنْحَدِرُ~berkurang, turun, jatuh (jumlahnya)</item>
+        <item>مُبَاشَرَةً~tiba-tiba, secara langsung</item>
+        <item>تَقْرِيْبًا~kira-kira</item>
+        <item>فَأْرٌ-فِيْرَانٌ~tikus</item>
+        <item>جُرْذٌ-جُرْذَانٌ~tikus</item>
+        <item>لَقَطَ~menangkap, mengumpulkan, menemukan</item>
+        <item>ثُعْبَانٌ~ular</item>
+        <item>حَيَّةٌ~ular</item>
+        <item>أَفْعَى~ular</item>
+        <item>طَوِيْلٌ~panjang</item>
+        <item>زَاحِفٌ~melata, reptil</item>
+        <item>دَمٌ~darah</item>
+        <item>بَارِدٌ~dingin</item>
+        <item>بَرِيْدٌ~pos</item>
+        <item>جَفْنٌ~kelopak mata</item>
+        <item>غِطَاءٌ~tutup</item>
+        <item>سَنَامٌ~punuk</item>
+        <item>نَاقَةٌ~unta betina</item>
+        <item>ذُوْقٌ~unta-unta</item>
+        <item>شَهْمٌ~terhormat</item>
+        <item>جَوْعَانُ~lapar</item>
+        <item>أَحْوَرُ~memiliki mata yang indah</item>
+        <item>شَدِيْدٌ~berat, kasar, besar, kuat</item>
+        <item>لَطِيْفٌ~lembut</item>
+        <item>بَطَلٌ~batal</item>
+        <item>نَهِمٌ~rakus</item>
+        <item>شَرِهٌ~gembul</item>
+        <item>قَوِيَ~kuat</item>
+        <item>ضَعُفَ~lemah</item>
+        <item>اَحْمَقُ~idiot, bodoh, goblok</item>
+        <item>عَفَّ~suci, bersih (seksual)</item>
+        <item>هَوِجَ~idiot, bodoh, goblok</item>
+        <item>مَرِضَ~sakit</item>
+        <item>ذَكِيَ~cerdas</item>
+        <item>جَمُلَ~cantik, indah, ganteng</item>
+        <item>شَجُعَ~berani</item>
+        <item>ضَخُمَ~besar, gemuk</item>
+        <item>هَيِفَ~kurus</item>
+        <item>عَذُبَ~segar, dapat diminum</item>
+        <item>لَسُنَ~fasih (berbicara)</item>
+        <item>عَفِيْفٌ~suci, bersih (seksual)</item>
+        <item>أَهْوَجُ~idiot, bodoh, goblok</item>
+        <item>مَرِضٌ~sakit</item>
+        <item>ذَكِيٌّ~cerdas</item>
+        <item>جَمِيْلٌ~cantik, indah, ganteng</item>
+        <item>شُجَاعٌ~berani</item>
+        <item>ضَخْمٌ~besar, gemuk</item>
+        <item>أَهْيَفُ~kurus</item>
+        <item>عَذْبٌ~segar, dapat diminum</item>
+        <item>لَسِنٌ~fasih (berbicara)</item>
     </string-array>
 </resources>
